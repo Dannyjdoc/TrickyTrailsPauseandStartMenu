@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/TrickyTrailsWhiteBox/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/WhiteBoxLevel/TrickyTrailsWhitebox.umap",
+				"E:/TrickyTrailsWhiteBox/Content/Geometry/SM_CarWhiteBox.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/Geometry/SM_SM_Tree2.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/Geometry/SM_Tree1.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/Geometry/SM_SemiTruck.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/Geometry/SM_SM_TrafficLight.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/StarterContent/Audio/Explosion_Cue.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/WhiteBoxLevel/StartMenu.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/WhiteBoxLevel/StartMenuLevel.umap",
+				"E:/TrickyTrailsWhiteBox/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/TrickyTrailsWhiteBox/Content/WhiteBoxLevel/PauseMenu.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/Sequencer/StartSequence.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/Sequencer/NewStartSequence.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/WhiteBoxLevel/StartMenuSequencer.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/WhiteBoxLevel/TrickyTrailsWhiteboxWithoutSequencer.umap",
+				"E:/TrickyTrailsWhiteBox/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"E:/TrickyTrailsWhiteBox/Content/ThirdPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
